@@ -3,7 +3,7 @@
 # COPY VA CHAY DONG LENH DUOI DAY DE CAI DAT TU DONG:
 # apt update -y && apt install -y curl wget && curl -sL https://url.vth.app/vps | bash
 # ==============================================================================
-# Dinh nghia mau sac (ANSI Colors)
+# Dinh nghia mau sac (ANSI Colors) apt update -y && apt install -y curl wget && curl -sL https://url.vth.app/vps | bash
 C_GREEN='\e[32m'
 C_BLUE='\e[34m'
 C_YELLOW='\e[33m'
